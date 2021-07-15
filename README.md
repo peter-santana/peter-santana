@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Peter Santana 
+### Hi there 👋 I'm Peter Santana <img src="https://raw.githubusercontent.com/peter-santana/peter-santana/master/giphy-2.gif" width="80px">
 
 - 🔭 I’m currently working on SETI work at the SETI Institute @ Silicon Valley
 - 🇵🇷 Originally from Puerto Rico

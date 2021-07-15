@@ -9,4 +9,4 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peter-santana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter-santana&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Views](https://api.ghprofile.me/view?username=peter-santana&color=2E3440&label=profile_views)

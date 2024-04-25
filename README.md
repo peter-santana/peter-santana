@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Peter Santana 
 <img src="https://github.com/peter-santana/peter-santana/blob/main/giphy-3.gif" width="80px" tall="40px">
 
-- 🔭 I’m currently working @ NASA HQ 
+- 🔭 I’m currently working @ Pratt & Whitney
 - 🇵🇷 Originally from Puerto Rico
 - 😄 Pronouns: He/Him
 - Expert on creating messy code and random astronomy data with no sense (although it makes sense to me)
